@@ -1,0 +1,1 @@
+observation_id,tree_id,city_id,survey_segment_id,observation_utc,latitude,longitude,horizontal_accuracy_m,evidence_method,tree_origin,original_or_replacement,species_or_genus,taxon_confidence,condition,status,trunk_diameter_cm,crown_width_ns_m,crown_width_ew_m,media_reference,publication_permission,review_status

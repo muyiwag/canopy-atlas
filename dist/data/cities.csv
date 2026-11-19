@@ -1,0 +1,13 @@
+city_id,city,zone,latitude_approx,longitude_approx,proposed_stage,proposed_survey_question
+lagos,Lagos,South West,6.455,3.384,field pilot,"Compare shade on busy walking routes with canopy in compounds, parks and by the lagoon."
+ibadan,Ibadan,South West,7.388,3.895,desktop baseline,Compare shade around markets and schools with canopy in residential streets.
+abuja,Abuja,North Central,9.063,7.493,field pilot,Compare canopy on planned avenues with shade along pedestrian routes in expanding districts.
+jos,Jos,North Central,9.896,8.858,desktop baseline,Compare mature tree cover across plateau neighbourhoods and the urban fringe.
+kano,Kano,North West,12.003,8.592,field pilot,"Identify shade gaps around markets, schools and transport stops, and test how the mapping method detects sparse crowns."
+kaduna,Kaduna,North West,10.523,7.44,desktop baseline,Assess the distribution of mature trees along streets and compare it with canopy along waterways.
+maiduguri,Maiduguri,North East,11.831,13.152,desktop baseline,Test whether historical satellite layers pick up sparse tree cover and identify candidate walking routes for local review.
+gombe,Gombe,North East,10.29,11.172,desktop baseline,Compare canopy visibility between seasons and flag potential shade gaps along public routes.
+enugu,Enugu,South East,6.451,7.511,desktop baseline,"Compare canopy across neighbourhood streets and the hills around the city, accounting for terrain shadows."
+owerri,Owerri,South East,5.485,7.035,desktop baseline,Compare canopy in established neighbourhoods with coverage along outward growth corridors.
+port-harcourt,Port Harcourt,South South,4.815,7.049,desktop baseline,"Measure urban canopy and nearby mangrove extent separately, and check their boundaries around creeks."
+benin-city,Benin City,South South,6.335,5.603,desktop baseline,Identify neighbourhoods where mature trees could be retained as streets and housing expand.

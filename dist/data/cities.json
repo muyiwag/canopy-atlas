@@ -1,0 +1,14 @@
+[
+  {"id":"lagos","name":"Lagos","zone":"South West","lat":6.455,"lon":3.384,"pilot":true,"label":[-13,-9],"focus":"Compare shade on busy walking routes with canopy in compounds, parks and by the lagoon."},
+  {"id":"ibadan","name":"Ibadan","zone":"South West","lat":7.388,"lon":3.895,"pilot":false,"label":[10,-13],"focus":"Compare shade around markets and schools with canopy in residential streets."},
+  {"id":"abuja","name":"Abuja","zone":"North Central","lat":9.063,"lon":7.493,"pilot":true,"label":[-11,19],"focus":"Compare canopy on planned avenues with shade along pedestrian routes in expanding districts."},
+  {"id":"jos","name":"Jos","zone":"North Central","lat":9.896,"lon":8.858,"pilot":false,"label":[10,-10],"focus":"Compare mature tree cover across plateau neighbourhoods and the urban fringe."},
+  {"id":"kano","name":"Kano","zone":"North West","lat":12.003,"lon":8.592,"pilot":true,"label":[12,-8],"focus":"Identify shade gaps around markets, schools and transport stops, and test how the mapping method detects sparse crowns."},
+  {"id":"kaduna","name":"Kaduna","zone":"North West","lat":10.523,"lon":7.440,"pilot":false,"label":[-10,-11],"focus":"Assess the distribution of mature trees along streets and compare it with canopy along waterways."},
+  {"id":"maiduguri","name":"Maiduguri","zone":"North East","lat":11.831,"lon":13.152,"pilot":false,"label":[-12,-11],"focus":"Test whether historical satellite layers pick up sparse tree cover and identify candidate walking routes for local review."},
+  {"id":"gombe","name":"Gombe","zone":"North East","lat":10.290,"lon":11.172,"pilot":false,"label":[10,17],"focus":"Compare canopy visibility between seasons and flag potential shade gaps along public routes."},
+  {"id":"enugu","name":"Enugu","zone":"South East","lat":6.451,"lon":7.511,"pilot":false,"label":[11,-10],"focus":"Compare canopy across neighbourhood streets and the hills around the city, accounting for terrain shadows."},
+  {"id":"owerri","name":"Owerri","zone":"South East","lat":5.485,"lon":7.035,"pilot":false,"label":[12,-5],"focus":"Compare canopy in established neighbourhoods with coverage along outward growth corridors."},
+  {"id":"port-harcourt","name":"Port Harcourt","zone":"South South","lat":4.815,"lon":7.049,"pilot":false,"label":[12,14],"focus":"Measure urban canopy and nearby mangrove extent separately, and check their boundaries around creeks."},
+  {"id":"benin-city","name":"Benin City","zone":"South South","lat":6.335,"lon":5.603,"pilot":false,"label":[-9,20],"focus":"Identify neighbourhoods where mature trees could be retained as streets and housing expand."}
+]
