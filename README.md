@@ -1,6 +1,6 @@
 # Thinking Trees Canopy Atlas
 
-Nigeria is the first edition. This repository contains a static city atlas and reusable tooling for publishing documented urban canopy estimates. City markers and field priorities are a proposed work programme. The public preview includes linked research layers, two credited reference photographs, and a downloadable field template.
+Nigeria is the first edition. This repository contains a static city atlas and reusable tooling for publishing documented urban canopy estimates. City markers and field priorities are a proposed work programme. The preview includes a searchable city directory, linked research layers, paired aerial and street-level reference photographs, and a downloadable field template.
 
 ## Run the atlas
 
